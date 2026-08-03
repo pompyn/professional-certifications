@@ -81,7 +81,7 @@ This portfolio reflects my commitment to lifelong learning, hands-on experience,
 ---
 ## My Learning Approach
 
-I learn best by combining structured study with hands-on experience. For each certification or technology, I strive to move beyond theory by building practical labs, documenting my work, troubleshooting real-world scenarios, and reflecting on lessons learned. This approach has helped me develop technical skills while reinforcing the importance of clear documentation, continuous improvement, and lifelong learning.
+I learn best by combining structured study with hands-on experience. For each certification or technology, I strive to move behond theory by building practical labs, documenting my work, troubleshooting real-world scenarios, and reflecting on lessons learned. this approach had helped me develop technical skills while reinforcing the importance of clear documentation, continuous improvement, and lifelong learning.
 ---
 Thank you for taking the time to visit my portfolio.
 
