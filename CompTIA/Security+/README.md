@@ -37,3 +37,6 @@ Following this certification, I applied these concepts through hands-on projects
 ## Continuing Development
 
 Security is an ongoing discipline. I continue expanding my knowledge through advanced cloud security, governance, and critical infrastructure training.
+## Reflection
+
+This certification strengthened my understanding of enterprise security principles and reinforced the importance of applying security concepts through hands-on labs rather than relying solely on theory.
